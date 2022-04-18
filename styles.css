@@ -54,18 +54,29 @@ h6 {
 button{
     font-size: 16px;
     padding: 6px 25px;
-    background-color: rgba(105, 104, 104, 1);
+    background-color: rgba(179, 179, 179, 1);
     border: none;
     border-radius: 30px;
     transition: all 0.3s ease 0;
     cursor: pointer;
     margin-left: 20px;
     margin-right: 20px;
+    color: #101010;
 
 }
 
 button:hover{
-    background-color: rgba(85, 84, 84, 0.8);
+    font-size: 16px;
+    padding: 6px 25px;
+    background-color: #10101040;
+    border: none;
+    border-radius: 30px;
+    transition: all 0.3s ease 0;
+    cursor: pointer;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #e7e3e3;
+    
 }
 
 .footer {
@@ -119,7 +130,7 @@ button:hover{
   align-items: center;
   justify-content: center;
   padding: 100px 0;
-  background-color: #b3b3b3;
+  background-color: rgb(179, 179, 179);
 }
 .timeline {
   width: 80%;
@@ -143,7 +154,7 @@ button:hover{
   margin-bottom: 0;
 }
 .timeline-content h1 {
-  font-weight: 20;
+  font-weight: 200px;
   font-size: 20px;
   line-height: 30px;
   margin-bottom: 10px;
