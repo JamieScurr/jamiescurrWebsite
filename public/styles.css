@@ -250,11 +250,10 @@ body {
 }
 
 h7{
-    margin-top: 20px;
+    margin-top: 35px;
     position: absolute; 
-    font-size: 30px;
+    font-size: 27px;
     background-color: rgba(0, 0, 0, 0.25);
-   
     text-align: center;
     font-family: raleway;
     color: #edf0f1;
@@ -279,7 +278,7 @@ h7:hover{
     background-color: #101010   ;
     color: #edf0f1;
     font-family: raleway;
-    height: calc(100vh - 107px);
+    height: calc(100vh - 10px);
     width: 100%;
     display: flex;
     align-items: center;
@@ -377,9 +376,10 @@ h7:hover{
     }
   }
   
-  @media (max-width: 400px) {
+  @media (min-width: 400px) {
     .hero-container {
       width: 100%;
+    
     }
   
     .hero-container h1 {
@@ -389,7 +389,8 @@ h7:hover{
     }
   
     .slider {
-      height: 40px;
+      padding-top: 5px;
+      height: 70px;
       overflow: hidden;
       padding-left: 0;
     }
@@ -400,6 +401,22 @@ h7:hover{
       display: flex;
       align-items: center;
       justify-content: center;
+    }
+
+    .slider-text1 {
+      font-size: 50px;
+      background-color: #b3b3b3;
+      animation: slide 5s linear infinite;
+
+    }
+    
+    .slider-text2{
+      font-size: 50px;
+      background:#b3b3b3;
+    }
+    .slider-text3 {
+      font-size: 50px;
+      background: #b3b3b3;
     }
   }
   
