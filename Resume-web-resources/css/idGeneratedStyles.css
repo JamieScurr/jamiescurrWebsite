@@ -1,0 +1,164 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.Basic-Graphics-Frame {
+	border-color:#000000;
+	border-width:1px;
+	border-style:solid;
+}
+div.Basic-Text-Frame {
+	border-style:solid;
+}
+p.Basic-Paragraph {
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.ParaOverride-1 {
+	text-align:justify;
+	text-align-last:right;
+}
+p.ParaOverride-2 {
+	text-align:right;
+}
+p.ParaOverride-3 {
+	text-align:center;
+}
+span.CharOverride-1 {
+	font-family:"Raleway Thin", sans-serif;
+	font-size:10px;
+	font-variation-settings:"wght" 300;
+}
+span.CharOverride-2 {
+	font-family:"Raleway Thin", sans-serif;
+	font-size:9px;
+	font-variation-settings:"wght" 300;
+}
+span.CharOverride-3 {
+	font-family:"Raleway Thin", sans-serif;
+	font-size:10px;
+	font-variation-settings:"wght" 150;
+}
+span.CharOverride-4 {
+	font-family:"Raleway Thin", sans-serif;
+	font-size:10px;
+	font-variation-settings:"wght" 200;
+}
+span.CharOverride-5 {
+	color:#2b2d30;
+	font-family:"Raleway Thin", sans-serif;
+	font-variation-settings:"wght" 600;
+}
+span.CharOverride-6 {
+	font-family:"Raleway Thin", sans-serif;
+	font-variation-settings:"wght" 600;
+}
+span.CharOverride-7 {
+	font-family:"Raleway Thin", sans-serif;
+	font-size:9px;
+	font-variation-settings:"wght" 150;
+}
+span.CharOverride-8 {
+	font-family:"Raleway Thin", sans-serif;
+	font-size:9px;
+	font-variation-settings:"wght" 200;
+}
+span.CharOverride-9 {
+	font-family:"Raleway Thin", sans-serif;
+	font-size:10px;
+	font-variation-settings:"wght" 100;
+}
+span.CharOverride-10 {
+	font-family:"Raleway Thin", sans-serif;
+	font-size:30px;
+	font-variation-settings:"wght" 700;
+}
+span.CharOverride-11 {
+	font-family:"Raleway Thin", sans-serif;
+	font-variation-settings:"wght" 500;
+}
+span.CharOverride-12 {
+	font-family:"Raleway Thin", sans-serif;
+	font-size:9px;
+	font-variation-settings:"wght" 400;
+}
+span.CharOverride-13 {
+	font-family:"Raleway Thin", sans-serif;
+	font-size:9px;
+	font-variation-settings:"wght" 100;
+}
+span.CharOverride-14 {
+	font-family:"Raleway Thin", sans-serif;
+	font-variation-settings:"wght" 300;
+}
+#_idContainer000 {
+	display:inline-block;
+	height:8px;
+	width:522px;
+}
+#_idContainer004, #_idContainer005 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:510px;
+}
+#_idContainer015, #_idContainer016, #_idContainer017, #_idContainer018, #_idContainer019, #_idContainer020, #_idContainer021, #_idContainer022 {
+	display:inline-block;
+	height:5px;
+	position:relative;
+	width:5px;
+}
+#_idContainer023 {
+	display:inline-block;
+	height:4px;
+	position:relative;
+	width:5px;
+}
+#_idContainer024 {
+	display:inline-block;
+	height:361px;
+	position:relative;
+	width:0px;
+}
+#_idContainer025 {
+	display:inline-block;
+	height:83px;
+	position:relative;
+	width:0px;
+}
+div._idGenObjectStyleOverride-1 {
+	background-color:#343333;
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-2 {
+	border-color:#343333;
+	border-width:1px;
+}
+div._idGenObjectStyleOverride-3 {
+	background-color:#2b2d30;
+	border-width:0px;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
