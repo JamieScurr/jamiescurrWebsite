@@ -251,24 +251,21 @@ body {
   }
 }
 
-h7{
-    margin-top: 35px;
-    position: absolute; 
-    font-size: 27px;
-    background-color: rgba(0, 0, 0, 0.25);
-    text-align: center;
-    font-family: raleway;
-    color: #edf0f1;
-    font-weight: 760px;
-    left: 50%;
-    transform: translateX(-100px);
-    padding: 6px 25px;
-    border: none;
-    border-radius: 30px;
-    cursor: pointer;
-    margin-left: 20px;  
-    margin-right: 20px;
-    
+h7 {
+  margin-top: 35px;
+  margin-bottom: 40px;
+  position: absolute; 
+  font-size: 25px;
+  background-color: rgba(0, 0, 0, 0.25);
+  text-align: center;
+  font-family: raleway;
+  color: #edf0f1;
+  font-weight: 760px;
+  left: 50%;
+  transform: translateX(-82px);
+  padding: 6px 25px;
+  border-radius: 20px;
+  cursor: pointer;  
 }
 
 h7:hover{
