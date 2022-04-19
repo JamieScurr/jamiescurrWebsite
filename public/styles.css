@@ -10,6 +10,8 @@ body {
   padding: 0;
 }
 
+
+
 .navbar {
   display: flex;
   position: relative;
@@ -249,28 +251,6 @@ body {
     background-color: rgba(0, 0, 0, 1
     );
   }
-}
-
-h7 {
-  margin-top: 35px;
-  margin-bottom: 40px;
-  position: absolute; 
-  font-size: 25px;
-  background-color: rgba(0, 0, 0, 0.25);
-  text-align: center;
-  font-family: raleway;
-  color: #edf0f1;
-  font-weight: 760px;
-  left: 50%;
-  transform: translateX(-82px);
-  padding: 6px 25px;
-  border-radius: 20px;
-  cursor: pointer;  
-}
-
-h7:hover{
-    transition: all 0.3s ease 0;
-    background-color:#1e1f22;
 }
 
 .hero-container {
